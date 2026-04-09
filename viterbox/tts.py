@@ -32,7 +32,7 @@ except ImportError:
     _normalizer = None
 
 
-REPO_ID = "dolly-vn/viterbox"
+REPO_ID = "AnhTuan89/viterbox"
 WAVS_DIR = Path("wavs")
 
 
